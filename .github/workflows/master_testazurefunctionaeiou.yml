@@ -40,4 +40,4 @@ jobs:
         app-name: 'testazurefunctionaeiou'
         slot-name: 'production'
         package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3c4a765a4cde433eb28d9cbe102c154c }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_bdabdb19096047df9893795e6cf92cdc }}
